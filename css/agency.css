@@ -562,6 +562,10 @@ section#contact {
 section#contact .section-heading {
   color: white;
 }
+section#contact .section-p {
+  color: white;
+}
+
 section#contact .form-group {
   margin-bottom: 25px;
 }
